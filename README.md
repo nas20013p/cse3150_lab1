@@ -4,6 +4,6 @@
 
 ### 1. Clone the Repository
 
-### 2. Compile the code using :  g++ -std=c++17 prefix_sums_test.cpp -o prefix_sums_test
+### 2. Compile the code
 
 ### 3. Run the code using :  ./prefix_sums_test
