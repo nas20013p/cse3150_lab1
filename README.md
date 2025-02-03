@@ -4,6 +4,6 @@
 
 ### 1. Clone the Repository
 
-### 2. Compile the code
+### 2. Navigate to the directory and Compile the code
 
 ### 3. Run the code using :  ./prefix_sums_test
